@@ -10,7 +10,7 @@ The notion is to make a small cheap, modular cloud based sensor platform. Most c
 
 The software is a [single file](https://github.com/chris-casper/Particle-Modular-Sensor-Platform-v3/blob/master/Particle_Modular_Sensor_platform.ino). It is loaded into the Particle.io console or compiled into a binary that can be directly loaded. The [cloud console](https://console.particle.io/) or Particle app is very trivial to use. It should automatically include the dependencies (Adafruit_DHT_Particle.h and Ubidots.h). 
 
-It's written for [Ubidots](https://ubidots.com) for the dashboard, alerting and reporting. There are plenty of other options, but they have the best combination between features, pricing and ease of use. Sign up, generate an account token(https://help.ubidots.com/en/articles/590078-find-your-token-from-your-ubidots-account) and plug it into the script in the specified location, creatively specified as "Put here your Ubidots TOKEN".
+It's written for [Ubidots](https://ubidots.com) for the dashboard, alerting and reporting. There are plenty of other options, but they have the best combination between features, pricing and ease of use. Sign up, generate an account [token](https://help.ubidots.com/en/articles/590078-find-your-token-from-your-ubidots-account) and plug it into the script in the specified location, creatively specified as "Put here your Ubidots TOKEN".
 
 ## Supported sensors:
 
