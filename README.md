@@ -34,4 +34,4 @@ Look in the program for "ENABLE OR DISABLE SENSORS HERE", flip the bits on the r
 3. Download the software to the Photon using either the cloud dashboard or the mobile app
 4. (Optional) Put in an enclosure
 
-And that's it. 
+And that's it. It's meant to be as simple as possible.
