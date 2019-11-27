@@ -1,4 +1,4 @@
-\# Particle.io Photon Modular Sensor Platform
+# Particle.io Photon Modular Sensor Platform
 
 Platform:			Particle.io Photon 
 Sensors:			SEEED Grove
