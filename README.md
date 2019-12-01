@@ -1,8 +1,8 @@
 # Particle.io Photon Modular Sensor Platform
 
-Platform:			Particle.io Photon 
-Sensors:			SEEED Grove
-Cloud Dashboard:	Unidot
+* Platform:			Particle.io Photon 
+* Sensors:			SEEED Grove
+* Cloud Dashboard:	Unidot
 
 ## Overview
 
